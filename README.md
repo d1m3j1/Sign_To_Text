@@ -17,8 +17,9 @@ An advanced SLR (Sign Language Recognition) system leveraging Google's MediaPipe
 ### LSTM Model
 ---
 
-<td><img src="visuals/lSTM_model.gif" alt="LSTM Model Result"></td>
-
+<tr>
+    <td><img src="visuals/lSTM_model.gif" alt="LSTM Model Result"></td>
+</tr>
 
 ## How to run the code
 ---
