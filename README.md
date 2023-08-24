@@ -6,11 +6,15 @@
 
 An advanced SLR (Sign Language Recognition) system leveraging Google's MediaPipe Library for body pose landmark detection. The research contrasts LSTM and Transformer model performances, with the Transformer model showcasing notable efficacy.
 
-### Transformer Model
+###  Model
 ---
 <table>
     <tr>
-        <td><img src="visuals/transformer_model.gif" alt="Tramsformer Model Result"></td>
+        <td>Transformer Model</td>
+        <td>LSTM Model</td>
+    </tr>
+    <tr>
+        <td><img src="visuals/transformer_model.gif" alt="Transformer Model Result"></td>
         <td><img src="visuals/lstm_model.gif" alt="LSTM Model Result"></td>
     </tr>
 </table>
